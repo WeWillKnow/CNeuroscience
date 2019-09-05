@@ -1,2 +1,2 @@
 # CNeuroscience
-simulation for computational neuroscience
+computer simulation for computational neuroscience
